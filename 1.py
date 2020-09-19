@@ -1,1 +1,1 @@
-print "shyam"
+shyam
